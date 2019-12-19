@@ -77,7 +77,7 @@
     "@babel/plugin-syntax-dynamic-import": "^7.7.4",
     "@babel/plugin-syntax-import-meta": "^7.7.4",
     "@babel/plugin-transform-modules-commonjs": "^7.7.5",
-    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-env": "^7.7.7",
     "@bootstrap-styled/documentation": "^2.0.0",
     "@rollup-umd/documentation": "^2.0.11",
     "@rollup-umd/ncu": "^1.0.9",
